@@ -31,4 +31,4 @@ To run this game, ensure you have Python and Pygame installed on your system. Fo
    cd your-repo-name
    
 4. **Running the game**:
-   - Open and run the NezumiEscapeFinal.py
+   - Open and run the *NEZUMI ESCAPE FINAL.py* file
