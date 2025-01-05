@@ -12,3 +12,23 @@ Nezumi Escape is an exciting 2D platformer game made with Python and Pygame. Imm
 | D            | Move right      |
 | SPACE        | Shoot a grenade |
 
+## Installation Requirements
+
+To run this game, ensure you have Python and Pygame installed on your system. Follow these steps:
+
+### Prerequisites
+
+1. **Python**: Ensure Python 3.6 or newer is installed on your system.  
+   - [Download Python](https://www.python.org/downloads/)
+
+2. **Pip**: Verify that `pip` is installed. It comes with Python, but you can update it with:
+   ```bash
+   python -m pip install --upgrade pip
+
+3. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/Nezumi-Escape.git
+   cd your-repo-name
+   
+4. **Running the game**:
+   - Open and run the NezumiEscapeFinal.py
